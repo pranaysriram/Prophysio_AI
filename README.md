@@ -119,7 +119,7 @@ OPENAI_API_KEY=your_openai_api_key
 ### 5. Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ---
