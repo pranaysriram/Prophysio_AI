@@ -50,7 +50,7 @@ ProPhysio AI is an AI-powered healthcare application designed to assist athletes
 - Pandas
 
 ### AI Integration
-- OpenAI API
+- Groq API
 
 ### Environment Management
 - Python-dotenv
